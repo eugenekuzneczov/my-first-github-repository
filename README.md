@@ -6,3 +6,5 @@ This line was modified manually during confict resolution
 This line was added locally
 
 Another modification in the feature-2 branch
+
+Edit in the feature-2 branch
